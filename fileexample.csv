@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,Price,StockQuantity,Supplier,Description
+101,Dog Food,Food,25.99,100,PetSuppliesCo,Premium dry dog food with essential nutrients.
+102,Cat Litter,Litter,15.5,200,FelineProducts,Clumping cat litter with odor control.
+103,Bird Cage,Housing,45.0,50,AviaryHomes,Spacious bird cage suitable for small to medium birds.
+104,Fish Tank,Housing,60.75,20,AquaWorld,Glass fish tank with filtration system.
+105,Rabbit Hutch,Housing,75.0,10,BunnyHavens,Wooden rabbit hutch with waterproof roof.
+106,Hamster Bedding,Bedding,12.99,150,SmallPetSupplies,Natural bedding made from recycled paper.
+107,Parrot Food,Food,30.5,75,BirdFeedersInc,High-quality pellets formulated for parrots.
+108,Aquarium Kit,Housing,120.0,15,AquaWorld,Complete aquarium kit including decorations and filter.
+109,Gerbil Wheel,Toys,18.99,100,PetPlaytime,Durable and silent exercising wheel for gerbils.
+110,Cat Scratching Post,Furniture,35.0,80,FelineProducts,Sturdy scratching post with added play features.
+111,Dog Chew Toy,Toys,9.99,250,PawPlayThings,Non-toxic chew toy designed for aggressive chewers.
+112,Ferret Food,Food,22.0,60,CritterDelights,Nutritious food formulated for ferrets.
+113,Reptile Heat Lamp,Equipment,45.99,30,ReptileHaven,Adjustable heat lamp for reptiles to maintain proper temperature.
+114,Aquarium Water Conditioner,Care,12.49,125,AquaCare,Water conditioner that makes tap water safe for fish.
+115,Pet First Aid Kit,Health,29.99,200,PetSafetyCo,Complete first aid kit for your pet's emergencies.
